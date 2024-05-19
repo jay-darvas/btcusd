@@ -1,4 +1,4 @@
-value_h,rank_h,pts_last3_h,value_a,rank_a,pts_last3_a,result,difference,score,1?home win,2 ?draw,3 ? away win
+value_h,rank_h,pts_last3_h,value_a,rank_a,pts_last3_a,result,difference,score,1_home_win,2_draw,3_away_win
 0.612,0.25,4,0.882,0.1,6,3,-1,"""2-3""",Tottenham ,3-Feb, Arsenal 
 0.278,0.55,4,0.398,0.6,1,1,3,"""3-0""",Bournemouth ,Mar-00, Brighton 
 0.509,0.2,7,0.731,0.45,4,2,0,"""2-2""",Aston Villa - Chelsea,,
